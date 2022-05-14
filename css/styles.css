@@ -65,13 +65,14 @@ a, a:hover {
 }
 
    .dsmovie-card {
-    width: 360px;
- 
+    width: 300px;
+    
+
 }
 
 .dsmovie-card img {
     width: 100%;
-border-radius: 8px 8px 0 0;;    
+    border-radius: 8px 8px 0 0;   
 }
 
 .dsmovie-card-description {
